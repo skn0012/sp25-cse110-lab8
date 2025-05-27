@@ -1,5 +1,5 @@
 // main.js
-localStorage.clear();
+
 // CONSTANTS
 const RECIPE_URLS = [
     'https://adarsh249.github.io/Lab8-Starter/recipes/1_50-thanksgiving-side-dishes.json',
