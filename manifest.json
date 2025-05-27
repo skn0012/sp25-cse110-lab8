@@ -1,8 +1,8 @@
 {
     "name": "sp25-cse110-lab8",
     "short_name": "Skyler Nguyen",
-    "description": "",
-    "start_url": "",
+    "description": "Thanksgiving Recipes - Lab 8 PWA",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "orange",
     "theme_color": "blue",
